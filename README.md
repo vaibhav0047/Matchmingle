@@ -19,11 +19,7 @@ Tech Stack:-
 
 Matchmingle is built using the following technologies:
 
-Frontend: React Native, HTML5,CSS
-
-Backend: Node.js, Express.js,Python
-
-Database: MongoDB
+Frontend:  HTML,CSS & JS
 
 Authentication: Firebase Authentication
 
